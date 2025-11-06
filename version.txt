@@ -1,0 +1,4 @@
+Version 1.0.0
+Initial release – E-Commerce demo (product listing, cart, and checkout)
+Includes overview PDF and sample front-end ZIP
+Date: November 2025
